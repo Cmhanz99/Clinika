@@ -150,5 +150,5 @@ include('../includes/connection.php');
         </div>
     
  <?php 
- include('footer.php');
+ include('../php/footer.php');
 ?>

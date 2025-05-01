@@ -70,7 +70,7 @@ include('../includes/connection.php');
 		
    
 <?php
-include('footer.php');
+include('../php/footer.php');
 ?>
 <script language="JavaScript" type="text/javascript">
 function confirmDelete(){

@@ -159,7 +159,7 @@ if(isset($_REQUEST['save-appointment']))
         </div>
     
 <?php 
-include('footer.php');
+include('../php/footer.php');
 ?>
 <script type="text/javascript">
      <?php

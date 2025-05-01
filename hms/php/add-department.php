@@ -77,5 +77,5 @@ if (isset($_REQUEST['add-department'])) {
         </div>
     </div>
 </div>
-<?php include('footer.php'); ?>
+<?php include('../php/footer.php'); ?>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>

@@ -154,4 +154,4 @@ function printProfile() {
     location.reload(); // Reload the page to restore functionality
 }
 </script>
-<?php include('footer.php'); ?>
+<?php include('../php/footer.php'); ?>

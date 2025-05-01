@@ -155,7 +155,7 @@ if (isset($_POST['update-payment-status'])) {
         </div>
     </div>
 </div>
-<?php include('footer.php'); ?>
+<?php include('../php/footer.php'); ?>
 <script type="text/javascript">
      <?php
         if(isset($msg)) {

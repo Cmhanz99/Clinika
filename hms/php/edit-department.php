@@ -80,7 +80,7 @@ if(isset($_REQUEST['save-department']))
         </div>
     
 <?php 
-include('footer.php');
+include('../php/footer.php');
 ?>
 <script type="text/javascript">
      <?php

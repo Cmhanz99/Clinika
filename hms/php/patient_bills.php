@@ -139,4 +139,4 @@ if (isset($_POST['mark_paid'])) {
         </div>
     </div>
 </div>
-<?php include('footer.php'); ?>
+<?php include('../php/footer.php'); ?>

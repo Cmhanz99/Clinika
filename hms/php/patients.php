@@ -53,7 +53,7 @@ include('../includes/connection.php');
         </div>
     </div>
 </div>
-<?php include('footer.php'); ?>
+<?php include('../php/footer.php'); ?>
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script>
 $(document).ready(function() {
