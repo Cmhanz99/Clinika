@@ -4,7 +4,7 @@ if (empty($_SESSION['name'])) {
     header('location:index.php');
     exit();
 }
-include('../header.php');
+include('../php/header.php');
 include('../includes/connection.php');
 
 if (isset($_REQUEST['add-schedule'])) {
